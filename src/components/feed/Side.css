@@ -1,0 +1,98 @@
+.sidebar{
+    display: block;
+}
+
+.sidebar img {
+    cursor: pointer;
+}
+
+.sidebar p {
+    color: gray;
+    font-size: 13px;
+
+}
+
+.abb  {
+    display: flex;
+    align-items: center;
+
+}
+
+.sidebar h5 {
+    color: rgb(28, 102, 241);
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.boxsidebar{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.abb > img {
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+.acc{
+    color: black !important ;
+    font-size: 14px !important ;
+    cursor: pointer;
+}
+
+.textsidebar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-right: 5px;
+}
+
+.people{
+    color: gray !important ;
+}
+
+.seeall{
+    color: black !important ;
+}
+
+.abs{
+    display: flex;
+    align-items: center;
+}
+
+.callname{
+    margin-left: 7px;
+}
+
+.mfsidebar{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.abs > img {
+    object-fit: cover;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}
+
+.contactsidebar{
+    display: block;
+    margin-bottom: 10px;
+}
+.contactsidebar > p {
+    margin-right: 8px;
+    font-size: 12px;
+}
+
+.footersidebar{
+    font-size: 12px;
+}

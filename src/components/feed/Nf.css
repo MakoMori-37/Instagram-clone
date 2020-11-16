@@ -1,0 +1,37 @@
+.nfeed{
+    display: block;
+    background-color: #f3f3f3;
+
+    
+}
+
+.story{
+    display: flex;
+    height: 80px;
+    width: 40%;
+    background-color: white;
+    margin-left: 15%;
+    margin-top: 6%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    border-radius: 1px ;
+    border: 1px solid rgb(204, 199, 199);
+}
+
+.newfeed{
+    display: block;
+    width: 40%;
+    margin: 2% 15% ;
+    border-radius: 1px ;
+ 
+}
+
+.sidefeed{
+    
+  
+    top:100px;
+    right: 300px;
+    z-index: 999px;
+    position: fixed;
+   
+  }

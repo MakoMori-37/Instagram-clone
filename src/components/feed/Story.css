@@ -1,0 +1,22 @@
+.stim > img {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 3px solid #e6317c;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.stotyfeed{
+    display: block;
+    font-size: 12px;
+    padding: 12px 10px;
+    width: 60px;
+    height: 80px;
+    margin-left: 20px;
+    margin-right: 20px;  
+   text-align: center;    
+}
+
+
+

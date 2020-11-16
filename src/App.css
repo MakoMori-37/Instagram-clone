@@ -1,0 +1,16 @@
+﻿* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+
+}
+
+.app{
+
+  display: block;
+ 
+
+}
+
+::-webkit-scrollbar{ display: none;}
